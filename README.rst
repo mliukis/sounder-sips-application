@@ -1,7 +1,7 @@
 Unity Sounder SIPS Application
 ==============================
 
-This repository represents the containerization of the Sounder SIPS `SPSS <https://github.jpl.nasa.gov/SIPS/SPSS>`_ repository into a Unity Application Package.
+  This repository represents the containerization of the Sounder SIPS `SPSS <https://github.jpl.nasa.gov/SIPS/SPSS>`_ repository into a Unity Application Package.
 
 Requirements
 ------------
