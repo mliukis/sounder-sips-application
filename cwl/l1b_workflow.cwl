@@ -61,7 +61,7 @@ s:codeRepository:
 s:contributor:
   - name: Luca Cinquini
 s:dateCreated: 2022-04-14
-s:keywords: l0, l1a, thermal, sips, sounder
+s:keywords: l1a, l1b, thermal, sips, sounder
 s:license: All Rights Reserved
 s:releaseNotes: Initial release
 s:version: 0.1
