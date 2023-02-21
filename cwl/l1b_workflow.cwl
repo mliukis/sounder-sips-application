@@ -46,20 +46,24 @@ outputs:
     outputSource: l1b_process/stderr_file
     type: File
    
-
 $namespaces:
   s: https://schema.org/
 s:softwareVersion: 1.0.0
 
-s:author: 
-  name: James McDuffie
+s:author:
+  - class: s:Person
+    s:email: James.Mcduffie@jpl.nasa.gov
+    s:name: James McDuffie
+
 s:citation:
-s:codeRepository: 
+s:codeRepository:
   url: https://github.jpl.nasa.gov/unity-sds/sips_spss_build
-s:contributor: 
+s:contributor:
   - name: Luca Cinquini
 s:dateCreated: 2022-04-14
 s:keywords: l1a, l1b, thermal, sips, sounder
 s:license: All Rights Reserved
 s:releaseNotes: Initial release
 s:version: 0.1
+
+
